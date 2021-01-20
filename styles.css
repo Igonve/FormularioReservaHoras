@@ -1,0 +1,41 @@
+body{
+    background: rgb(0,3,15);
+    background: linear-gradient(162deg, rgba(0,3,15,1) 0%, rgba(233,148,148,1) 100%);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form{
+    background: rgb(0,3,15);
+    background: linear-gradient(162deg, rgba(0,3,15,1) 0%, rgba(120,135,249,1) 100%);
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    padding: 20px;
+    margin: 0 auto;
+    width: 400px;
+    }
+    input, textarea{
+    border: 20;
+    outline: none;
+    width: 400px;
+    border-radius: 60px;
+    }
+    .field{
+    border: solid 1px rgb(230, 228, 228);
+    padding: 10px;
+    }
+   .center-content{
+    text-align: center;
+    }
+    h1{
+    text-align: center;
+    color: rgb(252, 252, 252);
+    }
+
+.btn{
+    border-radius: 20px;
+    height: 50px;
+    width: 90px;
+    
+}
+
